@@ -2,8 +2,7 @@
 
 > Open data is data that can be freely used, re-used and redistributed by
 anyone - subject only, at most, to the requirement to attribute and sharealike.
-The full Open Definition gives precise details as to what this means.
-[source](http://opendatahandbook.org/guide/en/what-is-open-data/)
+[Source](http://opendatahandbook.org/guide/en/what-is-open-data/)
 
 This project is a collection of all civic data and state-wide data that is made
 available freely online by the government. The goal is to provide a place where
@@ -16,7 +15,8 @@ Example of data include:
 *  Audio and Video Records - Such as town meetings
 *  Meeting notes
 *  Legislative data - Such as bills and voting records
-*  Scheduled - Such as public transit times
+*  Schedules - Such as public transit times
+*  Real-time data - Such as sensors
 *  Event calendars
 *  Police and fire logs
 *  Parking information
