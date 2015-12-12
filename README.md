@@ -23,6 +23,19 @@ Example of data include:
 *  Weather information
 *  Etc.
 
+## Goal
+
+The goal is to provide a place where people can get ideas on how to make creative use of public data.
+
+We can do this by:
+- Creating a human readable index of all open New Hampshire data
+- Creating a computer readable index of the data that people can use in their
+- For large data sets, creating scrapers or use APIs to get complete lists of
+  available data
+- Indexing the data and make it available online
+
+Creating apps that use the data is outside the scope of this project.
+
 ## Contributing
 
 To contribute to this collection. For the repository on Github and make a
