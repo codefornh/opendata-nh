@@ -34,7 +34,19 @@ We can do this by:
   available data
 - Indexing the data and make it available online
 
+Passed during the FY2012 Legislative Session, [RSA 21-R:10-14](http://www.gencourt.state.nh.us/rsa/html/NHTOC/NHTOC-I-21-R.htm) requires state agencies to consider open source software when acquiring software and promotes the use of open data formats by state agencies. Over time, the implementation of open standards compliant products can reduce the cost of software ownership and ensure long-term data accessibility and interoperability.
+
 Creating apps that use the data is outside the scope of this project.
+
+## Links
+
+### WISDOM - Public health data dashboard
+
+**Link**: [WISDOM - Public health data dashboard](https://wisdom.dhhs.nh.gov/wisdom/)
+
+**Description**: NH Health WISDOM provides access to data for hundreds of public health indicators via interactive dashboards and community profiles. Up to date data in maps, graphs, and tables related to the NH State Health Improvement Plan Adobe Acrobat Reader Symbol, NH Environmental Public Health Tracking Program, and the NH Occupational Health Surveillance Program.
+
+**Notes**: This sees to be a new service the state is providing and they are looking to expand more. They also seem to be looking for input and feedback. This might be a place for us to partner up. There also seems to be some backend java services for getting data. We might beable to suggest exposing it as an API for project consumption.
 
 ## Contributing
 
